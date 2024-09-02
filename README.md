@@ -20,7 +20,7 @@ Este proyecto es una aplicación de consola en Java que permite agregar y listar
 1. Clona el repositorio:
 
     ```bash
-    git clone https://github.com/tu-usuario/tu-repositorio.git
+    git clone https://github.com/gianpoker1/Listado-Personas/
     cd tu-repositorio
     ```
 
